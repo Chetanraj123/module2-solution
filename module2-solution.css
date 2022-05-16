@@ -1,0 +1,21 @@
+div{
+   width: 200px;
+  border: 10px solid black;
+  padding: 10px;
+  background color: gray;
+}
+#c{
+  border: 5px solid black;
+  background color: pink;
+  float: right top;
+}
+#b{
+   border: 5px solid black;
+  background color: red;
+  float: right top;
+}
+#s{
+ border: 5px solid black;
+  background color: yellow;
+  float: right top;
+}
